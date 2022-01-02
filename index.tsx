@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import styled from 'styled-components';
 const Test = styled.div`
 color:red;
-font-size: 2rem;
+font-size: 12rem;
 `;
 
 const App = () => {
